@@ -1,7 +1,7 @@
 # San Diego Street Conditions Classification
 
 <p align ="center">
-<img src = "/images/IMG_0037-ANIMATION.gif">
+<img src = "/images/IMG_0037-ANIMATION.gif" width = "50%" height = "auto">
 </p>
 
 ### Installation
