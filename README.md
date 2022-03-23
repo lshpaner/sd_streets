@@ -12,10 +12,10 @@ To use this project, first clone the repo on your device using the commands belo
 
 `git clone https://github.com/lshpaner/sd_streets.git`
 
-### Partner(s)/Contributor(s)
-**Authors:** Leonid Shpaner, Jose Luis Estrada, Kiran Singh
-**Company Name:** Street Infrastructure Solutions (SIS)
-**Company Industry:** Streets Infrastructure/Transportation
+### Partner(s)/Contributor(s)  
+**Authors:** Leonid Shpaner, Jose Luis Estrada, Kiran Singh  
+**Company Name:** Street Infrastructure Solutions (SIS)  
+**Company Industry:** Streets Infrastructure/Transportation  
 **Company Size:** 3 (startup)
 
 ### Abstract 
