@@ -19,8 +19,8 @@ The city of San Diego has become reliant upon a streets Overall Condition Index 
 The city of San Diego has decided to "spend $700,000 to survey the condition of every street in the city so repairs and upgrades can be geared toward increasing social equity, fixing many long-neglected roads and boosting opportunities for bicycling" (Garrick, 2021). The challenge is to provide recommendations to identify viable targets (streets) for future infrastructure projects for the city of San Diego. To this end, a high caliber consulting service such as the one our company provides is instrumental for handling the following task. Classification of streets in above par condition is a necessary step in establishing infrastructure feasibility. The city's future depends on it.
 
 ### Goals 
-Predictive Analytics: Predict street viability presence/likelihood (good/fair vs. poor)
-Prescriptive Analytics: Identify cost effective solution to expand infrastructure projects in populated areas
+1. Predictive Analytics: Predict street viability presence/likelihood (good/fair vs. poor)
+2. Prescriptive Analytics: Identify cost effective solution to expand infrastructure projects in populated areas
 
 ### Non-Goals 
 While we will endeavor to provide recommendations and viable solutions that hinge on sound and proper data analytics, it is not in our capacity to “fix” issues including but not limited to traffic, parking meters, or real-estate assets or valuation. 
