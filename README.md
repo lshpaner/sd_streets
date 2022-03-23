@@ -28,13 +28,13 @@ While we will endeavor to provide recommendations and viable solutions that hing
 ### Data Sources 
 Data will be stored on AWS service S3 Bucket that will communicate with AWS Sagemaker. The three files will be uploaded to S3 bucket.
 
-Streets Overall Condition Index (OCI): csv file 30,712 entries and 12 columns  
+* Streets Overall Condition Index (OCI): csv file 30,712 entries and 12 columns  
 https://data.sandiego.gov/datasets/streets-overall-condition-index/
 
-Street Repair Projects: csv file with 23,433 entries and 19 columns  
+* Street Repair Projects: csv file with 23,433 entries and 19 columns  
 https://data.sandiego.gov/datasets/streets-repair-projects/
 
-Traffic Volumes: csv file with 12,432 entries and 10 columns  
+* Traffic Volumes: csv file with 12,432 entries and 10 columns  
 https://data.sandiego.gov/datasets/traffic-volumes/
 
 
