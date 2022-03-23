@@ -21,6 +21,7 @@ The city of San Diego has decided to "spend $700,000 to survey the condition of 
 ### Goals 
 1. Predictive Analytics: Predict street viability presence/likelihood (good/fair vs. poor)
 2. Prescriptive Analytics: Identify cost effective solution to expand infrastructure projects in populated areas
+3. Informative: Inform stakeholders (City of San Diego) of the outcome in a timely manner (by 5/18/2022)
 
 ### Non-Goals 
 While we will endeavor to provide recommendations and viable solutions that hinge on sound and proper data analytics, it is not in our capacity to “fix” issues including but not limited to traffic, parking meters, or real-estate assets or valuation. 
