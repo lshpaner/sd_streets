@@ -1,8 +1,18 @@
-# San Diego Water: E-Coli Bacteria Detection
+# San Diego Street Conditions Classification
 
 <p align ="center">
-<img src = "https://i0.wp.com/grapevine.is/wp-content/uploads/giphy-boiling-water.gif?fit=500%2C180&quality=99&ssl=1">
+<img src = "/images/IMG_0037-ANIMATION.gif">
 </p>
+
+### Installation
+
+To use this project, first clone the repo on your device using the commands below:
+
+`git init`
+
+`git clone https://github.com/lshpaner/sd_streets.git`
+
+
 
 ### Abstract 
 The city of San Diego is looking to identify the presence of E-coli bacteria in the water supply. The company will provide recommendations to implement cost savings solutions.
