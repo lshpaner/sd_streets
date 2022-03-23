@@ -12,6 +12,12 @@ To use this project, first clone the repo on your device using the commands belo
 
 `git clone https://github.com/lshpaner/sd_streets.git`
 
+### Partner(s)/Contributor(s)
+**Authors:** Leonid Shpaner, Jose Luis Estrada, Kiran Singh
+**Company Name:** Street Infrastructure Solutions (SIS)
+**Company Industry:** Streets Infrastructure/Transportation
+**Company Size:** 3 (startup)
+
 ### Abstract 
 The city of San Diego has become reliant upon a streets Overall Condition Index (OCI) that was designed and implemented by the United States Army Corps of Engineers. The company will provide recommendations to implement cost savings solutions.
 
