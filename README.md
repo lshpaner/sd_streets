@@ -12,29 +12,33 @@ To use this project, first clone the repo on your device using the commands belo
 
 `git clone https://github.com/lshpaner/sd_streets.git`
 
-
-
 ### Abstract 
-The city of San Diego is looking to identify the presence of E-coli bacteria in the water supply. The company will provide recommendations to implement cost savings solutions.
+The city of San Diego has become reliant upon a streets Overall Condition Index (OCI) that was designed and implemented by the United States Army Corps of Engineers. The company will provide recommendations to implement cost savings solutions.
+
+Our endeavor is to leverage the streets Overall Condition Index (OCI) to isolate streets that are in fair and/or good condition from those that are in poor condition to identify viable targets for future infrastructure projects for the city of San Diego. 
 
 ### Problem Statement
-E-coli “may be found in water sources, such as private wells, that have been contaminated with feces from infected humans or animals” (Centers for Disease Control and Prevention [CDC], 2015). The challenge is to provide recommendations on water treatment based on present E-coli bacteria to improve water quality for future residents.
+The city of San Diego has decided to "spend $700,000 to survey the condition of every street in the city so repairs and upgrades can be geared toward increasing social equity, fixing many long-neglected roads and boosting opportunities for bicycling" (Garrick, 2021). The challenge is to provide recommendations to identify viable targets (streets) for future infrastructure projects for the city of San Diego. To this end, a high caliber consulting service such as the one our company provides is instrumental for handling the following task. Classification of streets in above par condition is a necessary step in establishing infrastructure feasibility. The city's future depends on it.
 
 ### Goals 
-Predictive Analytics: Predict E-Coli bacteria presence/likelihood (absent vs. non-absent)
-Prescriptive Analytics: Identify cost effective solution to filter water in populated areas
+Predictive Analytics: Predict street viability presence/likelihood (good/fair vs. poor)
+Prescriptive Analytics: Identify cost effective solution to expand infrastructure projects in populated areas
 
 ### Non-Goals 
-While we will endeavor to provide recommendations and viable solutions that hinge on sound and proper data analytics, it is not in our capacity to “fix” issues including but not limited to water shortage (quantity supplied), consistency, or temperature. 
+While we will endeavor to provide recommendations and viable solutions that hinge on sound and proper data analytics, it is not in our capacity to “fix” issues including but not limited to traffic, parking meters, or real-estate assets or valuation. 
 
 ### Data Sources 
 Data will be stored on AWS service S3 Bucket that will communicate with AWS Sagemaker. The three files will be uploaded to S3 bucket.
 
-All Drinking Water Tests (Bacteria): csv file with 68,032 entries and 9 columns
-https://data.sandiego.gov/datasets/monitoring-of-indicator-bacteria-in-drinking-water/ 
+Streets Overall Condition Index (OCI): csv file 30,712 entries and 12 columns
+https://data.sandiego.gov/datasets/streets-overall-condition-index/
 
-Drinking Water Tests (Chemical): csv file with 18,306 entries and 8 columns
-https://data.sandiego.gov/datasets/monitoring-of-select-chemical-parameters-in-drinking-water/ 
+Street Repair Projects: csv file with 23,433 entries and 19 columns
+https://data.sandiego.gov/datasets/streets-repair-projects/
 
-Effluent Water Tests (Chemical): csv file with 5,320 entries and 8 columns
-https://data.sandiego.gov/datasets/monitoring-analytes-plant-effluent/ 
+Traffic Volumes: csv file with 12,432 entries and 10 columns
+https://data.sandiego.gov/datasets/traffic-volumes/
+
+
+### References
+Garrick, D. (2021, September 12). San Diego to spend $700K assessing street conditions to spend repair money wisely. *The San Diego Union-Tribune.* https://www.sandiegouniontribune.com/news/politics/story/2021-09-12/san-diego-to-spend-700k-assessing-street-conditions-to-spend-repair-money-wisely
