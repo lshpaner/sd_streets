@@ -15,8 +15,6 @@ To use this project, first clone the repo on your device using the commands belo
 ### Abstract 
 The city of San Diego has become reliant upon a streets Overall Condition Index (OCI) that was designed and implemented by the United States Army Corps of Engineers. The company will provide recommendations to implement cost savings solutions.
 
-Our endeavor is to leverage the streets Overall Condition Index (OCI) to isolate streets that are in fair and/or good condition from those that are in poor condition to identify viable targets for future infrastructure projects for the city of San Diego. 
-
 ### Problem Statement
 The city of San Diego has decided to "spend $700,000 to survey the condition of every street in the city so repairs and upgrades can be geared toward increasing social equity, fixing many long-neglected roads and boosting opportunities for bicycling" (Garrick, 2021). The challenge is to provide recommendations to identify viable targets (streets) for future infrastructure projects for the city of San Diego. To this end, a high caliber consulting service such as the one our company provides is instrumental for handling the following task. Classification of streets in above par condition is a necessary step in establishing infrastructure feasibility. The city's future depends on it.
 
