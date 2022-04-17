@@ -19,6 +19,7 @@ To use this project, first clone the repo on your device using the commands belo
 * [Leonid Shpaner](https://github.com/lshpaner)  
 * [Jose Luis Estrada](https://github.com/jose-luis-estrada)  
 * [Kiran Singh](https://github.com/kiransingh789)  
+
 **Company Name:** Street Infrastructure Solutions (SIS)  
 **Company Industry:** Streets Infrastructure/Transportation  
 **Company Size:** 3 (startup)
