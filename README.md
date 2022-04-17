@@ -1,4 +1,6 @@
-# San Diego Street Conditions Classification
+# Impacting the Business with a Distributed Data Science Pipeline - MSADS508: Cloud Computing  
+## San Diego Street Conditions Classification  
+## Completed: 04/17/2022  
 
 <p align ="center">
 <img src = "/images/IMG_0037-ANIMATION.gif" width = "50%" height = "auto">
@@ -13,10 +15,28 @@ To use this project, first clone the repo on your device using the commands belo
 `git clone https://github.com/lshpaner/sd_streets.git`
 
 ### Partner(s)/Contributor(s)  
-**Authors:** Leonid Shpaner, Jose Luis Estrada, Kiran Singh  
+**Authors:**  
+* [Leonid Shpaner](https://github.com/lshpaner)  
+* [Jose Luis Estrada](https://github.com/jose-luis-estrada)  
+* [Kiran Singh](https://github.com/kiransingh789)  
 **Company Name:** Street Infrastructure Solutions (SIS)  
 **Company Industry:** Streets Infrastructure/Transportation  
 **Company Size:** 3 (startup)
+
+### Methods  
+* Data Exploration  
+* Pre-processing  
+* Data Visualization  
+* Statistical modeling  
+* Data modeling metrics  
+
+### Technologies  
+* Python (AWS Sagemaker)  
+* SQL Transformations  
+* AWS (Sagemaker, Athena, S3)  
+* Powerpoint  
+* Word  
+* Excel  
 
 ### Abstract 
 The city of San Diego has become reliant upon a streets Overall Condition Index (OCI) that was designed and implemented by the United States Army Corps of Engineers. The company will provide recommendations to implement cost savings solutions.
@@ -48,3 +68,7 @@ https://data.sandiego.gov/datasets/traffic-volumes/
 
 ### References
 Garrick, D. (2021, September 12). San Diego to spend $700K assessing street conditions to spend repair money wisely. *The San Diego Union-Tribune.* https://www.sandiegouniontribune.com/news/politics/story/2021-09-12/san-diego-to-spend-700k-assessing-street-conditions-to-spend-repair-money-wisely
+
+## Presentations and projects  
+* [Amazon SageMaker (AWS) Python - Jupyter Notebook](https://github.com/lshpaner/sd_streets/blob/main/sd_streets.ipynb)  
+* Presentation  
