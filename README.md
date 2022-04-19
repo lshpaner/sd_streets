@@ -72,4 +72,4 @@ Garrick, D. (2021, September 12). San Diego to spend $700K assessing street cond
 
 ## Presentations and projects  
 * [Amazon SageMaker (AWS) Python - Jupyter Notebook](https://github.com/lshpaner/sd_streets/blob/main/sd_streets.ipynb)  
-* Presentation  
+* [Video Presentation](https://www.youtube.com/watch?v=zK5_D8_XaYY)  
